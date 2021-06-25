@@ -1,0 +1,28 @@
+{
+  "token": "YOUR DISCORD TOKEN HERE",
+  "corsOrigin": "YOUR NODE SERVER IP/HOST HERE",
+  "prefix": "-",
+  "guild": "YOUR DISCORD GUILD HERE",
+  "channels": {
+    "lobby": "bobble-hats-anonymous",
+    "sim-1": "on-our-simsig-1",
+    "sim-2": "on-our-simsig-2",
+    "sim-3": "on-our-simsig-3",
+    "controller": "on-our-simsig-controllers",
+    "priv-1": "on-our-simsig-call-1",
+    "priv-2": "on-our-simsig-call-2"
+  },
+  "sims": {
+    "lobby": "Lobby",
+    "sim-1": "SIM 1",
+    "sim-2": "SIM 2",
+    "sim-3": "SIM 3",
+    "controller": "Controllers",
+    "priv-1": "Private Call 1",
+    "priv-2": "Private Call 2"
+  },
+  "privateCalls": {
+    "priv-1":[],
+    "priv-2": []
+  }
+}
