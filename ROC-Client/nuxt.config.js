@@ -50,7 +50,7 @@ export default {
   io: {
     sockets: [{
       name: 'main',
-      url: 'http://YOUR SERVER IP/HOST HERE:3001'
+      url: 'http://localhost:3001'
     }]
   },
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
