@@ -1,0 +1,14 @@
+{
+  "name": "ROC",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "workspaces": [
+    "ROC-Client",
+    "ROC-Server"
+  ],
+  "engines": {
+    "node": ">=16",
+    "yarn": ">=1.22.0"
+  }
+}
