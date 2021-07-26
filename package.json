@@ -8,6 +8,7 @@
     "ROC-Server"
   ],
   "scripts": {
+    "start": "echo \"Use 'yarn client' and 'yarn server' to run the client and server applications\" && exit 1",
     "client": "yarn workspace ROC-Client run build && yarn workspace ROC-Client run start",
     "server": "yarn workspace ROC-Server run start"
   },
